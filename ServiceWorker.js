@@ -1,9 +1,9 @@
 const cacheName = "Sentinel-Solitaire-0.1";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/ubuvv.loader.js",
+    "Build/ubuvv.framework.js",
+    "Build/ubuvv.data",
+    "Build/ubuvv.wasm",
     "TemplateData/style.css"
 
 ];
